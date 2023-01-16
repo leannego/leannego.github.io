@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -54,9 +54,13 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      I am currently a student studying in the Philippines.
+      Though shy at first, I’m one who loves to meet new people and experience new things. 
+      I love to take on challenges that encourage me to step out of my comfort zone and grow. 
+      In the past, I’ve always found myself taking on leadership roles as I enjoy working with and for others. 
+      While I’ve had my fair share of successes and failures, I will always be open to opportunities to be better.
+
       
 education:
     title: Education
@@ -80,30 +84,18 @@ experiences:
         time: 2021 - 2022
         company: Ateneo Management Information Systems Association
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Jumpstart 2022 Project Director
-        time: June - September 2022
+          Managed and oversaw different events hosted by the organization.
+            - MISA Leadership Development Bootcamp 2022
+            - MISA Rewind 2022
+      - role: Jumpstart 2021 Project Director
+        time: June - September 2021
         company: Ateneo Management Information Systems Association
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Planned and executed one of MISA’s major events each school year, Jumpstart 2022. 
+          This event was made to welcome new MIS students into the community, as well as provide 
+          them with an overview of what it is like to be in MIS.
 
-projects:
+#projects:
     title: Projects
     intro: >
       You can list your side projects in this
@@ -178,19 +170,13 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Google Workspace
+        level: 99%
 
-      - name: Sketch & Photoshop
+      - name: Photoshop
         level: 60%
 
 footer: >
